@@ -3,7 +3,7 @@ INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
      VALUES ("Rowdy", male, 5, green, rowdy, false);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
-     VALUES ("Tabitha", female, 21, red, silent, true);
+     VALUES ("Tabitha", female,  red, silent, true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
      VALUES ("Sergeant Brown", male, tan, , true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
