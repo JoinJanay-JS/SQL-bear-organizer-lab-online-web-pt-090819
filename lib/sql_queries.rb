@@ -7,7 +7,7 @@ def selects_all_bears_names_and_orders_in_alphabetical_order
 end
 
 def selects_all_bears_names_and_ages_that_are_alive_and_order_youngest_to_oldest
-  "SELECT * FROM bears WHERE alive IS TRUE AND ORDER BY age ASC; "
+  "SELECT * FROM bears WHERE alive IS TRUE, ORDER BY age ASC; "
 end
 
 def selects_oldest_bear_and_returns_name_and_age
