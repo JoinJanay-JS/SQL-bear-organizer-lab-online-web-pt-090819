@@ -1,9 +1,9 @@
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
-    VALUES ("Mr. Chocolate", male, brown, happy, true);
+    VALUES ("Mr. Chocolate", 15, male, brown, happy, true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
-     VALUES ("Rowdy", male, green, rowdy, false);
+     VALUES ("Rowdy", male, 5, green, rowdy, false);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
-     VALUES ("Tabitha", female, red, silent, true);
+     VALUES ("Tabitha", female, 21, red, silent, true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
      VALUES ("Sergeant Brown", male, tan, , true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
