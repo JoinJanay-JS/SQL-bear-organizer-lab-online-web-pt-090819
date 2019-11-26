@@ -1,7 +1,7 @@
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
     VALUES ("Mr. Chocolate", 15, male, brown, happy, true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
-     VALUES ("Rowdy", male, 5, green, rowdy, false);
+     VALUES ("Rowdy", male,  green, rowdy, false);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
      VALUES ("Tabitha", 21, female,  red, silent, true);
 INSERT INTO sql_queries (id, name, age, gender, color, temperament, alive)
